@@ -27,7 +27,7 @@ public class Exercicio7 {
 			j--;
 		}
 		
-		// imprime a matriz após a troca dos elementos
+		// imprime a matriz apÃ³s a troca dos elementos
 		System.out.println();
 		for (i = 0; i < x.length; i++) {
 			for (j = 0; j < x.length; j++) {				
@@ -35,6 +35,8 @@ public class Exercicio7 {
 			}
 			System.out.println();
 		}
+		
+		// teste feito no git
 
 	}
 }
